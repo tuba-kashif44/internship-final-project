@@ -15,6 +15,6 @@ This project is a Python-based Network Packet Sniffer developed during my Cybers
 The project captures 10 packets (TCP/UDP/ICMP). See the result in `output.png.png`.
 
 ---
-**Submitted by:** Tuba <img width="1356" height="717" alt="image" src="https://github.com/user-attachments/assets/ab488f07-66f3-4fbf-9e7d-11959bea0fef" />
+**Submitted by:** Tuba 
  
 **Internship:** Cyber Security Intern at NCAI, UET Lahore.
